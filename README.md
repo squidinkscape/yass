@@ -20,13 +20,13 @@ Price alerts for watchlist stocks.
 
 Create a new python virtual environment and install requirements.txt :
 
-`
+```
 python -m venv <name>
 
 cd <name>
 
 pip install -r requirements.txt
-`
+```
 
 Note - python-Levenshtein might be a hassle to install for windows users; a simpler way would be to download the wheel from http://www.lfd.uci.edu/~gohlke/pythonlibs/#python-levenshtein
 
