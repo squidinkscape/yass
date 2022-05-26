@@ -16,7 +16,7 @@ Generates weights for optimal portfolios via random weights and calculates/plots
 
 Price alerts for watchlist stocks.
 
-#Installation
+# Installation
 
 Create a new python virtual environment and install requirements.txt :
 
@@ -39,12 +39,15 @@ pip install <path_to_whl>
 
 Alternately, download the win 64 pyinstaller dist from the releases section.
 
-#Functions
+# Functions
 
+1. Picks - day (interval 1d, period ytd) / iday (interval 1d, period ytd) : Generates daily stock pick shortlists.
+2. Folio - gets the optimal weights of a mix of tickers (via text list/csv file upload)
+3. BHS - buy/hodl/sell signals based on dema/momentum/price action. 
+4. Alerts - alerts for stocks added to watchlist (5 min alerts during market hours, 15 during the rest)
+5. Del - remove stocks from watchlist alerts
 
-
-
-#References
+# References
 
 Most of the code is based off Sentdex's tutorials 🤘
 
