@@ -1,6 +1,4 @@
 # yass
-yet another stock screener
-
 ```
 _  _  __ _  ___ ___
 | || |/ _` |(_-<(_-<
@@ -10,3 +8,4 @@ _  _  __ _  ___ ___
 *** ║▌║▌║█│▌
 yₑₜ aₙₒₜₕₑᵣ ₛₜₒcₖ ₛcᵣₑₑₙₑᵣ
 ```
+A chain of basic stock screening scripts tied together with pysimplegui.
