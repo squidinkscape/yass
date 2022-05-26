@@ -56,7 +56,7 @@ Alternately, download the win 64 pyinstaller dist from the releases section.
 Exports results to .csv (of course).
 
 # Screenshots
-
+![gif_all](https://github.com/squidinkscape/yass/blob/main/screenshots/demo.gif)
 ![main](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_main.png)
 ![bhs](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_bhs_rez.png)
 ![alerts-in](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_alerts.png)
