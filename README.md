@@ -14,4 +14,5 @@ Scrapes daily NSE (volume/gainers/losers) stocks and generates picks based on (D
 
 Generates weights for optimal portfolios via random weights and calculates/plots the efficient frontier for a mix of stocks.
 
-Simple text based price alerts for watchlist stocks.
+ Price alerts for watchlist stocks.
+
