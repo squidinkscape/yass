@@ -9,6 +9,9 @@
 yₑₜ aₙₒₜₕₑᵣ ₛₜₒcₖ ₛcᵣₑₑₙₑᵣ
 ```
 A chain of basic stock screening scripts tied together with pysimplegui.
+
 Scrapes daily NSE (volume/gainers/losers) stocks and generates picks based on (DEMA/Momentum/Price action) signals.
+
 Generates weights for optimal portfolios via random weights and calculates/plots the efficient frontier for a mix of stocks.
+
 Simple text based price alerts for watchlist stocks.
