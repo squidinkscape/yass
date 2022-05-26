@@ -47,6 +47,11 @@ Alternately, download the win 64 pyinstaller dist from the releases section.
 4. Alerts - alerts for stocks added to watchlist (5 min alerts during market hours, 15 during the rest)
 5. Del - remove stocks from watchlist alerts
 
+#Screenshots
+
+![alerts](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_alerts_rez.png)
+
+
 # References
 
 Most of the code is based off Sentdex's tutorials 🤘
