@@ -47,10 +47,12 @@ Alternately, download the win 64 pyinstaller dist from the releases section.
 4. Alerts - alerts for stocks added to watchlist (5 min alerts during market hours, 15 during the rest)
 5. Del - remove stocks from watchlist alerts
 
-#Screenshots
+# Screenshots
 
-![alerts](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_alerts_rez.png)
-
+![main](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_main.png)
+![bhs](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_bhs_rez.png)
+![alerts-in](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_alerts.png)
+![alerts-out](https://github.com/squidinkscape/yass/blob/main/screenshots/screen_alerts_out.png)
 
 # References
 
