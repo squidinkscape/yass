@@ -18,6 +18,12 @@ Price alerts for watchlist stocks.
 
 # Installation
 
+(pls) install PressStart2P and OCR A Std fonts (for the gui and matplotlib):
+
+https://fonts.google.com/specimen/Press+Start+2P
+
+https://fontsgeek.com/fonts/OCR-A-Std-Regular
+
 Create a new python virtual environment and install requirements.txt :
 
 ```
